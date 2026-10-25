@@ -1,0 +1,11 @@
+mozzi (TinyGo port) - Sound Synthesis Library for TinyGo/Go microcontrollers
+
+This is a TinyGo/Go port of Mozzi (https://github.com/sensorium/Mozzi),
+Copyright 2012-2024 Tim Barrass and the Mozzi Team.
+
+Like upstream Mozzi, this port is licensed under the GNU Lesser General
+Public Licence (LGPL) Version 2.1 or later. A full copy of this licence is
+included in these sources as LICENCE.LGPL.
+
+See README.md for what has (and hasn't) been ported, and how it maps onto
+upstream Mozzi's API.
