@@ -2,7 +2,7 @@
 
 English: [README.en.md](README.en.md)
 
-Arduino 用の音声合成ライブラリ [Mozzi](https://github.com/sensorium/Mozzi)([ドキュメント](https://sensorium.github.io/Mozzi/))の、[TinyGo](https://tinygo.org/) への移植です。元の C++ ライブラリは参考用に [`../Mozzi`](../Mozzi) に手を加えずに置いてあります。このディレクトリ(`mozzi/`)は、それとは別にゼロから書いた Go モジュールで、Mozzi の設計と主要な部品を移植し、**Raspberry Pi Pico(RP2040)** と **ESP32-S3** 向けのハードウェア出力(バックエンド)を備えています。
+Arduino 用の音声合成ライブラリ [Mozzi](https://github.com/sensorium/Mozzi)([ドキュメント](https://sensorium.github.io/Mozzi/))の、[TinyGo](https://tinygo.org/) への移植です。Mozzi の設計と主要な部品を移植し、**Raspberry Pi Pico(RP2040)** と **ESP32-S3** 向けのハードウェア出力(バックエンド)を備えています。
 
 ## 移植の範囲
 

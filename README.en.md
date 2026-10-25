@@ -4,9 +4,7 @@
 
 A [TinyGo](https://tinygo.org/) port of [Mozzi](https://github.com/sensorium/Mozzi)
 ([docs](https://sensorium.github.io/Mozzi/)), the Arduino sound synthesis
-library. The original C++ library lives untouched in [`../Mozzi`](../Mozzi)
-for reference; this directory (`mozzi/`) is a separate, from-scratch Go
-module that ports its architecture and a representative core of its
+library. Its architecture and a representative core of its
 building blocks, with hardware backends for the **Raspberry Pi Pico
 (RP2040)** and the **ESP32-S3**.
 
